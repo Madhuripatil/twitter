@@ -1,0 +1,32 @@
+      body {
+background-color: #3a92c8;
+background: radial-gradient(circle,#94d2f8,#3a92c8);
+}
+
+
+	  .bx-viewport {
+	 height : 125px !important;
+	  }
+	  
+	  img {border-width: 0}
+      * {font-family:'Lucida Grande', sans-serif;}
+
+      #tw_main_container{
+	background-color: #fff;
+	  box-shadow: rgb(204, 204, 204) 0px 1px 5px;
+      width: 500px; 
+      border: 1px solid #d4d4d4; 
+      margin-top: 100px; 
+      height: 200px;
+	  -webkit-border-radius: 10px;
+		-moz-border-radius: 10px;
+	border-radius: 10px;
+      }  
+
+	  #page_content
+	  {
+	  margin-top: 100px;
+	  }
+
+
+
